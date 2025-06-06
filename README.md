@@ -8,17 +8,17 @@ A comprehensive set of SQL queries for the **DealershipDatabase**. This document
 
 ## 📖 Table of Contents
 1. [Get All Dealerships](#1-get-all-dealerships)
-![All Dealerships](screenshots/1_all_dealerships.png)
+![All Dealerships](Images/all_dealerships.png)
 2. [Get Vehicles by Dealership](#2-get-vehicles-by-dealership)  
-![Vehicles by Dealership](screenshots/2_vehicles_by_dealership_1.png)
+![Vehicles by Dealership](Images/all_deal_by.png)
 3. [Get Vehicle Details by VIN](#3-get-vehicle-details-by-vin)  
-![Vehicle Details by VIN](screenshots/3_vehicle_by_vin.png)
+![Vehicle Details by VIN](Images/get_deal_by_vin.png)
 4. [Find Dealership by VIN](#4-find-dealership-by-vin) 
-![Dealership by VIN](screenshots/4_dealership_by_vin.png)
+![Dealership by VIN](Images/find_deal_by_vin.png)
 5. [Find Dealerships by Make/Model/Color](#5-find-dealerships-by-makemodelcolor)  
-![Dealership by Vehicle Attributes](screenshots/5_dealership_by_make_model_color.png)
+![Dealership by Vehicle Attributes](Images/deal_specific_makeModel.png)
 6. [Get Sales Contracts by Dealership and Date](#6-get-sales-contracts-by-dealership-and-date)
-![Sales Contracts by Dealership and Date](screenshots/6_sales_contracts_by_dealership_date.png)
+![Sales Contracts by Dealership and Date](Images/salesCon_dealership.png)
 
 ---
 

@@ -29,15 +29,17 @@ Retrieve all records from the `dealerships` table.
 ```sql
 SELECT *
 FROM dealerships;
+```
 
-
-``SELECT s.*
+```sql
+SELECT s.*
 FROM sales_contracts s
 JOIN inventory i ON s.VIN = i.VIN
 WHERE i.dealership_id = 1
-  AND s.sale_date BETWEEN '2023-01-01' AND '2025-12-31';``
+  AND s.sale_date BETWEEN '2023-01-01' AND '2025-12-31';
+```
   
-  ## 📸 Screenshot: ![Sales Contracts by Dealership and Date](screenshots/6_sales_contracts_by_dealership_date.png)
+
 
 
 
